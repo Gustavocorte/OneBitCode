@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  .flex-container {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+  }
+  .flex-item {
+    background-color: #ff0044;
+    border: 1px solid white;
+    flex-basis: 150px;
+    flex-grow: 1;
+    flex-shrink: 1;
+  }
+
+  .flex-container {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    gap: 5px;

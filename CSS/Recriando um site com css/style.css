@@ -1,0 +1,21 @@
+body{
+    background-color: #2c3e50;
+}
+h1{
+    color: #fff;
+}
+h2{
+    background-color:#f1c40f;
+    border: 2px solid;
+}
+h3{
+    color: #f1c40f;
+}
+
+div ul{
+    color: #fff
+}
+
+div ul li#astronomy-class{
+    color: red;
+}
